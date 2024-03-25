@@ -2,7 +2,7 @@
 
 ## Сайт объединенной сети «Лагуна Хостел». /Skillbox/
 
-Ссылка на сайт - <https://andreyfedyukin.github.io/Lagoona/>
+Ссылка на сайт - <https://andreyfedyukin.github.io/lagoona/>
 
 ---
 
