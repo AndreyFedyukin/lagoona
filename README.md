@@ -1,4 +1,4 @@
-![Ссылка на изображение](https://andreyfedyukin.github.io/Lagoona/img/Logo.png)
+![Ссылка на изображение](https://andreyfedyukin.github.io/lagoona/img/Logo.png)
 
 ## Сайт объединенной сети «Лагуна Хостел». /Skillbox/
 
